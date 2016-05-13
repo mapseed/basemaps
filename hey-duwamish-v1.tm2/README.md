@@ -1,3 +1,2 @@
-mapbox-studio-default-style
+duwamish custom basemap style
 ===========================
-Default style used by new style projects in Mapbox Studio.
