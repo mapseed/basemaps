@@ -1,0 +1,28 @@
+_prefs: 
+  mapid: heyduwamishcore.3fd2d9aa
+  saveCenter: true
+_properties: {}
+attribution: ''
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -122.3451
+  - 47.5575
+  - 16
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 22
+minzoom: 6
+name: hey-duwamish-v1
+source: "mapbox:///mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v5,heyduwamishcore.duexb5r2,heyduwamishcore.be25f9c6,heyduwamishcore.4k6nw4er"
+styles: 
+  - style.mss
+  - road.mss
+  - label.mss
+  - pol.mss
+template: ''

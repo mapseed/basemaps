@@ -1,0 +1,27 @@
+{
+  "name": "mapbox-studio-outdoors",
+  "version": "2.0.0",
+  "description": "Outdoors style for Mapbox Studio",
+  "main": "./package.json",
+  "_id": "mapbox-studio-outdoors@2.0.0",
+  "_shasum": "ea0f3522384c4360a5d99baad1d3c4490a704259",
+  "_from": "mapbox-studio-outdoors@2.0.0",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "yhahn",
+    "email": "young@developmentseed.org"
+  },
+  "maintainers": [
+    {
+      "name": "yhahn",
+      "email": "young@developmentseed.org"
+    }
+  ],
+  "dist": {
+    "shasum": "ea0f3522384c4360a5d99baad1d3c4490a704259",
+    "tarball": "https://registry.npmjs.org/mapbox-studio-outdoors/-/mapbox-studio-outdoors-2.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/mapbox-studio-outdoors/-/mapbox-studio-outdoors-2.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
